@@ -1,0 +1,55 @@
+  state = {
+        products: [
+            {
+                imgUrl: 'https://uploads-ssl.webflow.com/56fde5e17a6e8a4d62ae2e3e/5706ac872eade0f16315318f_camera-1%20-%20Edited.jpg',
+                title: 'Nikon DS54',
+                description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nemo nulla ex optio voluptates pariatur!",
+                Price: 22,
+                Category: 'Camera'
+            },
+
+            {
+                imgUrl: 'https://uploads-ssl.webflow.com/56fde5e17a6e8a4d62ae2e3e/5706ab924603d1e170b30356_watch-1%20-%20Edited-p-1080x.jpeg',
+                title: 'Dell Latitude',
+                description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nemo nulla ex optio voluptates pariatur!",
+                Price: 44,
+                Category: 'Laptop'
+            },
+
+            {
+                imgUrl: 'https://uploads-ssl.webflow.com/56fde5e17a6e8a4d62ae2e3e/5706ab924603d1e170b30356_watch-1%20-%20Edited-p-1080x.jpeg',
+                title: 'MI REDMI',
+                description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nemo nulla ex optio voluptates pariatur!",
+                Price: 666,
+                Category: 'Phones'
+            },
+
+            {
+                imgUrl: 'https://uploads-ssl.webflow.com/56fde5e17a6e8a4d62ae2e3e/5706ac872eade0f16315318f_camera-1%20-%20Edited.jpg',
+                title: 'Nikon DS54',
+                description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nemo nulla ex optio voluptates pariatur!",
+                Price: 22,
+                Category: 'Camera'
+            },
+
+            {
+                imgUrl: 'https://uploads-ssl.webflow.com/56fde5e17a6e8a4d62ae2e3e/5706ab924603d1e170b30356_watch-1%20-%20Edited-p-1080x.jpeg',
+                description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nemo nulla ex optio voluptates pariatur!",
+                title: 'Dell Latitude',
+                Price: 44,
+                Category: 'Laptop'
+            },
+
+            {
+                imgUrl: 'https://uploads-ssl.webflow.com/56fde5e17a6e8a4d62ae2e3e/5706ab924603d1e170b30356_watch-1%20-%20Edited-p-1080x.jpeg',
+                title: 'MI REDMI',
+                description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nemo nulla ex optio voluptates pariatur!",
+                Price: 666,
+                Category: 'Phones'
+            }
+
+
+
+        ]
+
+    }

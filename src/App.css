@@ -1,0 +1,30 @@
+.App {
+  font-family: "MyFont"
+}
+
+.sidenav li>a {
+  color: white;
+}
+
+@font-face {
+  font-family: "MyFont";
+  src: url("./fonts/geometria-light-webfont.woff");
+}
+
+.sidenav li > a > i.material-icons {
+  color: white
+}
+
+.productList a {
+  list-style-type: none;
+  color: black
+}
+
+.productList a:hover{
+font-weight: bold
+}
+
+
+
+
+
